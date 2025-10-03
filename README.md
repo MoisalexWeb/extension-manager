@@ -1,4 +1,6 @@
-# Frontend Mentor - Extensions Manager
+# Frontend Mentor - Extensions Manager 🚀
+
+![Design preview for the Manage landing page coding challenge](./src/assets/design/desktop-design-light.jpg)
 
 ## Welcome! 👋
 
@@ -17,6 +19,32 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## Run Locally using Git
+
+Clone the project
+
+```bash
+  git clone https://github.com/MoisalexWeb/extension-manager.git
+```
+
+Go to the project directory
+
+```bash
+  cd extension-manager
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
 
 ## Author
 - Frontend Mentor - [@MoisalexWeb](https://www.frontendmentor.io/profile/MoisalexWeb)
